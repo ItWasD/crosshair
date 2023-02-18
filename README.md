@@ -1,2 +1,2 @@
 # crosshair
-A Simple Crosshair.
+A Simple Crosshair, this is dogshit.
